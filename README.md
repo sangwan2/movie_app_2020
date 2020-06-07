@@ -1,3 +1,3 @@
 #Movie App 2020
 
-gogogo!!!!
+React JS Fundamentals Course (2019년 버전 Update!)
