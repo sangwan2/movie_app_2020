@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sangwan2/movie_app_2020/static/css/main.93517c7d.chunk.css",
+    "main.js": "/sangwan2/movie_app_2020/static/js/main.52c735c7.chunk.js",
+    "main.js.map": "/sangwan2/movie_app_2020/static/js/main.52c735c7.chunk.js.map",
+    "runtime-main.js": "/sangwan2/movie_app_2020/static/js/runtime-main.ddde5ada.js",
+    "runtime-main.js.map": "/sangwan2/movie_app_2020/static/js/runtime-main.ddde5ada.js.map",
+    "static/js/2.0285f39f.chunk.js": "/sangwan2/movie_app_2020/static/js/2.0285f39f.chunk.js",
+    "static/js/2.0285f39f.chunk.js.map": "/sangwan2/movie_app_2020/static/js/2.0285f39f.chunk.js.map",
+    "index.html": "/sangwan2/movie_app_2020/index.html",
+    "precache-manifest.6d1f5947064e6d9809ea4bd37b0649ec.js": "/sangwan2/movie_app_2020/precache-manifest.6d1f5947064e6d9809ea4bd37b0649ec.js",
+    "service-worker.js": "/sangwan2/movie_app_2020/service-worker.js",
+    "static/css/main.93517c7d.chunk.css.map": "/sangwan2/movie_app_2020/static/css/main.93517c7d.chunk.css.map",
+    "static/js/2.0285f39f.chunk.js.LICENSE.txt": "/sangwan2/movie_app_2020/static/js/2.0285f39f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddde5ada.js",
+    "static/js/2.0285f39f.chunk.js",
+    "static/css/main.93517c7d.chunk.css",
+    "static/js/main.52c735c7.chunk.js"
+  ]
+}
