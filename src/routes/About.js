@@ -9,7 +9,7 @@ function About(props) {
         “Freedom is the freedom to say that two plus two make four. If that is
         granted, all else follows.”
       </span>
-      <span>− George Orwell, 1984</span>
+      <span>− yesdouble, 2020</span>
     </div>
   );
 }
